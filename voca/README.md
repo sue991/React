@@ -1,3 +1,20 @@
+# React Study
+
+### `rcc`
+
+class component
+
+### `rsf`
+
+function component
+
+### `rsc`
+
+화살표 함수형 component
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
