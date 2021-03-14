@@ -1,6 +1,19 @@
-# JSON-server 
+# React Snippets
 
-`jason-server --watch ./src/db/data.json --port 3001`
+### `rcc`
+
+class component
+
+### `rsf`
+
+function component
+
+### `rsc`
+
+화살표 함수형 component
+
+---
+
 
 # Getting Started with Create React App
 
